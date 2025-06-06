@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there! My name is Robert Clukey
+
+I am a recent graduate from Texas A&M University studying Robotics Engineering with a minor in Electrical Engineering.
+
+My personal website is: https://people.tamu.edu/~rdc890444.
 
 <!--
 **RClukey/RClukey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
