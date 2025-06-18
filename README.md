@@ -3,6 +3,8 @@
 I recently graduated from Texas A&M University, Summa Cum Laude with a 4.0 GPA, studying Robotics Engineering with a minor in Electrical Engineering.
 I am looking for full-time positions where I can use my knowledge in motor drives and controls to develop robotic systems.
 
+My resume is included in this repository.
+
 My personal website is [here](https://people.tamu.edu/~rdc890444) and my email address is robertclukey1234@gmail.com.
 
 <!--
