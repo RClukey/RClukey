@@ -5,7 +5,7 @@ I am looking for full-time positions where I can use my knowledge in motor drive
 
 My resume is included in the RClukey repository.
 
-My personal website is [here](https://people.tamu.edu/~rdc890444) and my email address is robertclukey1234@gmail.com.
+My personal website is [here](https://people.tamu.edu/~rdc890444) and my email address is rdc890444@tamu.com.
 
 <!--
 **RClukey/RClukey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
