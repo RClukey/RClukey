@@ -3,11 +3,9 @@
 I recently graduated from Texas A&M University, Summa Cum Laude with a 4.0 GPA, studying Robotics Engineering with a minor in Electrical Engineering.
 I am looking for full-time positions where I can use my knowledge in motor drives and controls to develop robotic systems.
 
-I am currently working a part-time job as a lifeguard for Kalahari Resorts and Conventions in Round Rock, Texas.
-
 My resume is included in the RClukey repository, or can be accessed [here](https://github.com/RClukey/RClukey/blob/main/Clukey%2CRobert-Resume.pdf).
 
-My personal website is [here](https://rclukey.github.io/) and my email address is rdc890444@tamu.com.
+My personal website is [here](https://rclukey.github.io/) and my email address is robertclukey1234@gmail.com.
 
 <!--
 **RClukey/RClukey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
