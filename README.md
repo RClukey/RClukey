@@ -5,7 +5,7 @@ I am looking for full-time or internship positions where I can use my knowledge 
 
 My resume is included in the RClukey repository, or can be accessed [here](https://github.com/RClukey/RClukey/blob/main/Clukey%2CRobert-Resume.pdf).
 
-My personal website is [here](https://rclukey.github.io/) hosted by Github, and my email address is robertclukey1234@gmail.com.
+My personal website is [here](https://rclukey.github.io/) hosted by Github, and my email address is [here](robertclukey1234@gmail.com).
 
 <!--
 **RClukey/RClukey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
