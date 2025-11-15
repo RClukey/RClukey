@@ -7,6 +7,14 @@ My resume is included in the RClukey repository, or can be accessed [here](https
 
 My personal website is [here](https://rclukey.github.io/) hosted by Github, and my email address is [here](robertclukey1234@gmail.com).
 
+The RClukey repository includes my resume.<br />
+The Harvard repository includes all my work for the Harvard online courses.<br />
+The RClukey.github.io repository includes all my code for my personal website.<br />
+The Kryptos repository includes all my work for solving the Kryptos cipher.<br />
+The Subsea-ROV repository includes all my work for my senior capstone in designing asubsea Remotely Operated Vehicle (ROV).<br />
+
+
+
 <!--
 **RClukey/RClukey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
