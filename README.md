@@ -11,7 +11,8 @@ The RClukey repository includes my resume.<br />
 The Harvard repository includes all my work for the Harvard online courses.<br />
 The RClukey.github.io repository includes all my code for my personal website.<br />
 The Kryptos repository includes all my work for solving the Kryptos cipher.<br />
-The Subsea-ROV repository includes all my work for my senior capstone in designing asubsea Remotely Operated Vehicle (ROV).<br />
+The Subsea-ROV repository includes all my team and my's work for my senior capstone in designing asubsea Remotely Operated Vehicle (ROV).<br />
+The RC-Car repository includes all my work for developing an RC car using an Arduino and C++.<br />
 
 
 
