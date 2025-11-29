@@ -13,6 +13,7 @@ The RClukey.github.io repository includes all my code for my personal website.<b
 The Kryptos repository includes all my work for solving the Kryptos cipher.<br />
 The Subsea-ROV repository includes all my team and my's work for my senior capstone in designing asubsea Remotely Operated Vehicle (ROV).<br />
 The RC-Car repository includes all my work for developing an RC car using an Arduino and C++.<br />
+The LeetCode repository contains all my work for the problems in [LeetCode](https://leetcode.com/).<br />
 
 
 
