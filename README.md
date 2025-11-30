@@ -1,4 +1,4 @@
-## Hi there! My name is Robert Clukey
+## Hi there! My name is Robert Clukey.
 
 I recently graduated from Texas A&M University, Summa Cum Laude with a 4.0 GPA, studying Robotics Engineering with a minor in Electrical Engineering.
 I am looking for full-time or internship positions where I can use my knowledge in robotic software, robotic hardware, and structural design to further advance the robotic industry.
