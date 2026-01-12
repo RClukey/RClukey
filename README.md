@@ -13,7 +13,7 @@ The [RClukey.github.io repository](https://github.com/RClukey/RClukey.github.io)
 The [Kryptos repository](https://github.com/RClukey/Kryptos) includes all my work for solving the Kryptos cipher.<br />
 The [Subsea-ROV repository](https://github.com/RClukey/Subsea-ROV) includes all of my team's work in designing a subsea Remotely Operated Vehicle (ROV).<br />
 The [RC-Car repository](https://github.com/RClukey/RC-Car) includes all my work for developing an RC car using SolidWorks, an Arduino, and C++.<br />
-The [LeetCode repository](https://github.com/RClukey/LeetCode) contains all my work for the problems in [LeetCode](https://leetcode.com/), my profile of which, can be foubd [here](https://leetcode.com/u/rdclukey/).<br />
+The [LeetCode repository](https://github.com/RClukey/LeetCode) contains all my work for the problems in [LeetCode](https://leetcode.com/), my profile of which, can be found [here](https://leetcode.com/u/rdclukey/).<br />
 
 
 
