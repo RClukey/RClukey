@@ -9,7 +9,7 @@ My personal website is [here](https://rclukey.github.io/) hosted through Github 
 
 The [RClukey repository](https://github.com/RClukey/RClukey) includes my resume.<br />
 The [Harvard repository](https://github.com/RClukey/Harvard) includes all my work for the Harvard online courses.<br />
-The [RClukey.github.io repository](https://github.com/RClukey/RClukey.github.io) includes all my code for my personal website.<br />
+The [RClukey.github.io repository](https://github.com/RClukey/RClukey.github.io) includes all my work for my personal website.<br />
 The [Kryptos repository](https://github.com/RClukey/Kryptos) includes all my work for solving the Kryptos cipher.<br />
 The [Subsea-ROV repository](https://github.com/RClukey/Subsea-ROV) includes all of my team's work in designing a subsea Remotely Operated Vehicle (ROV).<br />
 The [RC-Car repository](https://github.com/RClukey/RC-Car) includes all my work for developing an RC car using SolidWorks, an Arduino, and C++.<br />
