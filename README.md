@@ -3,7 +3,7 @@
 I recently graduated from Texas A&M University, Summa Cum Laude with a 4.0 GPA, studying Robotics Engineering with a minor in Electrical Engineering.
 I am looking for full-time or internship positions where I can use my knowledge in robotic software, robotic hardware, and structural design to further advance the robotic industry.
 
-My resume is included in the RClukey repository, or can be accessed [here](https://github.com/RClukey/RClukey/blob/main/Clukey%2CRobert-Resume.pdf).
+My résumé is included in the RClukey repository, or can be accessed [here](https://github.com/RClukey/RClukey/blob/main/Clukey%2CRobert-Resume.pdf).
 
 My personal website is [here](https://rclukey.github.io/) hosted through Github Pages, and my email address is [here](robertclukey1234@gmail.com).
 
